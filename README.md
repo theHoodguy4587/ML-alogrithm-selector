@@ -65,22 +65,22 @@ After recommending an algorithm, the system trains it on an **80–20 split** an
 
 Make sure your CSV:
 
-has the target column as the last column
+- has the target column as the last column
 
-contains only numeric features (convert categorical values first)
+- contains only numeric features (convert categorical values first)
 
-contains no missing values (recommended)
+- contains no missing values (recommended)
 
 ###2️⃣ Upload It in the Interface
 
 The app will:
 
-- ✔ extract meta-features
+ ✔ extract meta-features
 
-- ✔ recommend the best ML algorithm
+✔ recommend the best ML algorithm
 
-- ✔ train the algorithm
+✔ train the algorithm
 
-- ✔ display accuracy
+✔ display accuracy
 
 
