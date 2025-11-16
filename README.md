@@ -61,7 +61,7 @@ After recommending an algorithm, the system trains it on an **80–20 split** an
 ---
 
 ## 🖥️ Usage Guide
-###1️⃣ Prepare Your Dataset
+### 1️⃣ Prepare Your Dataset
 
 Make sure your CSV:
 
