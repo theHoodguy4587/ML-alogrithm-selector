@@ -36,5 +36,51 @@ After recommending an algorithm, the system trains it on an **80–20 split** an
 
 ---
 
-## 📁 Project Structure
+---
+
+## 🧠 Meta-Learning Workflow
+
+1. User uploads a CSV dataset  
+2. Meta-features are extracted  
+3. Algorithm recommendation is made  
+4. Model is trained on the dataset  
+5. Accuracy score is returned  
+
+---
+
+---
+
+## 🧠 Meta-Learning Workflow
+
+1. User uploads a CSV dataset  
+2. Meta-features are extracted  
+3. Algorithm recommendation is made  
+4. Model is trained on the dataset  
+5. Accuracy score is returned  
+
+---
+
+## 🖥️ Usage Guide
+###1️⃣ Prepare Your Dataset
+
+Make sure your CSV:
+
+has the target column as the last column
+
+contains only numeric features (convert categorical values first)
+
+contains no missing values (recommended)
+
+###2️⃣ Upload It in the Interface
+
+The app will:
+
+- ✔ extract meta-features
+
+- ✔ recommend the best ML algorithm
+
+- ✔ train the algorithm
+
+- ✔ display accuracy
+
 
