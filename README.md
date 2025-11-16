@@ -83,4 +83,7 @@ The app will:
 
 ✔ display accuracy
 
+## Example Output:
 
+Recommended algorithm: RandomForest
+Accuracy on your dataset: 0.8421
