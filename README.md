@@ -87,3 +87,51 @@ The app will:
 
 Recommended algorithm: RandomForest
 Accuracy on your dataset: 0.8421
+
+## 📊 Supported Algorithms
+Algorithm	Type|	Best For
+RandomForest	 |Tree ensemble	Nonlinear, noisy data
+SVM           |	Large-margin model High-dimensional clean data
+KNN	          |Distance-based	Small datasets
+
+### Potential Additions (Future Versions)
+
+- Logistic Regression
+
+- XGBoost
+
+- LightGBM
+
+- Naive Bayes
+
+- Neural Networks
+
+## 🚀 Future Improvements
+
+- Auto hyperparameter tuning
+
+- Additional meta-features (skewness, entropy, kurtosis)
+
+- Model ranking instead of single best
+
+- Streamlit dashboard
+
+- Cloud deployment
+
+## 🤝 Contributing
+
+Contributions are welcome!
+You can:
+
+- Submit issues
+
+- Improve meta-features
+
+- Add documentation
+
+- Add new algorithms
+
+## 📄 License
+
+This project is released under the MIT License.
+
