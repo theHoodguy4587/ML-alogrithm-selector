@@ -89,10 +89,12 @@ Recommended algorithm: RandomForest
 Accuracy on your dataset: 0.8421
 
 ## 📊 Supported Algorithms
-Algorithm	Type|	Best For
-RandomForest	 |Tree ensemble	Nonlinear, noisy data
-SVM           |	Large-margin model High-dimensional clean data
-KNN	          |Distance-based	Small datasets
+| Algorithm     | Type               | Best For                     |
+|---------------|--------------------|------------------------------|
+| RandomForest  | Tree Ensemble      | Non-linear noisy datasets    |
+| SVM           | Margin-based model | High-dimensional clean data  |
+| KNN           | Distance-based     | Small datasets               |
+
 
 ### Potential Additions (Future Versions)
 
